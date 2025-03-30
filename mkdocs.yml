@@ -1,0 +1,20 @@
+site_name: "Idiomatic C++"
+site_description: "Idiomatic C++ programming"
+site_author: "Shrinivas Kamath"
+
+nav:
+  - Introduction:
+      - Introduction to this course `cpp-101`: introduction/cpp-101.md
+  - Basics:
+      - Syntax: basics/syntax.md
+      - Variables: basics/variables.md
+      - Operators: basics/operators.md
+  - Control Flow:
+      - If-Else: control-flow/if-else.md
+      - Switch: control-flow/switch.md
+      - Loops: control-flow/loops.md
+  - Advanced:
+      - Templates: advanced/templates.md
+      - Smart Pointers: advanced/smart-pointers.md
+      - Multithreading: advanced/multithreading.md
+
